@@ -1,5 +1,6 @@
 # Equitable AI for Dermatology
 **A Break Through Tech x Algorithmic Justice League Challenge**
+
 Building an ML model to classify skin conditions across diverse skin tones for the AJL Kaggle Challenge, aiming to advance equity by centering those historically excluded in AI.
 
 ## 📌 Project Overview
