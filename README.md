@@ -15,7 +15,7 @@ AI is transforming healthcare, but many dermatology AI tools underperform for pe
 
 ### 🗂️ Data Sources
 
-We worked with the dataset provided in the [Kaggle competition](https://www.kaggle.com/competitions) which included:
+We worked with the dataset provided in the [Kaggle competition](https://www.kaggle.com/competitions/bttai-ajl-2025) which included:
 - A **training folder** of labeled dermatology images
 - A **test folder** of unlabeled images organized by condition
 
