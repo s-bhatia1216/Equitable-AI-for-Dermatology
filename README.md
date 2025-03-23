@@ -4,7 +4,7 @@
 Building an ML model to classify skin conditions across diverse skin tones for the AJL Kaggle Challenge, aiming to advance equity by centering those historically excluded in AI.
 
 ## 📌 Project Overview
-This Kaggle competition was created in collaboration with the Break Through Tech (BTT) AI Program and the Algorithmic Justice League (AJL) to explore the machine learning life cycle and build a model that challenges the biases and ethnics of dermatology AI.  Both BTT AI and AJL's missions surround building unbiased and ethical AI models. This competition sheds light on the fact that existing machine learning models for dermatology are biased against darker skin tones, and good AI engineers understand and combat these issues in their models. Therefore, we are tasked with designing a machine learning model that is more fair and is capable of classifying 21 skin conditions across diverse skin tones.
+This Kaggle competition was created in collaboration with the Break Through Tech (BTT) AI Program and the Algorithmic Justice League (AJL) to explore the machine learning life cycle and build a model that challenges the biases and ethics of dermatology AI.  Both BTT AI and AJL's missions surround educating future engineers to build the most unbiased and ethical AI models as humanly possible. This competition sheds light on the fact that existing machine learning models for dermatology are biased against darker skin tones, and good AI engineers understand and combat these issues in their models. Therefore, we are tasked with designing a machine learning model that is more fair and is capable of classifying 21 skin conditions across diverse skin tones.
 
 ## 🔍 Objective
 The objective of this challenge is to build an inclusive machine learning model that can accurately classify 21 different skin conditions from dermatology images across a range of skin tones. The goal is not only to achieve strong performance using metrics like the weighted F1 score, but also to address fairness and reduce bias—especially for communities that have been historically underrepresented in healthcare AI.
@@ -36,6 +36,8 @@ We explored the data distribution and characteristics to better understand class
 
 📷 **Example 1:** Class distribution of skin conditions  
 *(Bar chart showing imbalance across 21 classes)*
+![image](https://github.com/user-attachments/assets/3ae62dd1-7906-4dd3-a961-2ec3b6d5458d)
+
 
 📷 **Example 2:** Image sample grid across skin tones  
 *(Grid visualization displaying the same condition across different skin tones)*
