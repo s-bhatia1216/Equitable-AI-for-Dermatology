@@ -48,6 +48,7 @@ Each image was labeled with one of 21 skin condition categories. The dataset inc
 - Confirming that the train and test folders were formatted consistently
 
 ### 📊 Exploratory Data Analysis (EDA)
+> ⚠️ **Content Warning:** The following section contains medical images of skin conditions, which may be graphic or sensitive in nature. Viewer discretion is advised.
 
 We explored the data distribution and characteristics to better understand class imbalances and variations across conditions and skin tones.
 
