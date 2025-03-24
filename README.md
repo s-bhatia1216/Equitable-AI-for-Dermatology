@@ -55,14 +55,14 @@ We explored the data distribution and characteristics to better understand class
 *(Bar chart showing imbalance across 21 classes)*
 ![image](https://github.com/user-attachments/assets/3ae62dd1-7906-4dd3-a961-2ec3b6d5458d)
 
+📷 **Example 2:** Fitzpatrick scale distribution  
+*(Histogram showing that the dataset is right-skewed towards lighter skin pigmentation)*
+![image](https://github.com/user-attachments/assets/94bd94a6-9941-40da-bd54-a2aa899fdf69)
 
-📷 **Example 2:** Image sample grid across skin tones  
+
+📷 **Example 3:** Image sample grid across skin tones  
 *(Grid visualization displaying the same condition (keloid) across different skin tones)*
 ![image](https://github.com/user-attachments/assets/3fa04e2b-ab50-417a-b0ab-6639727583fb)
-
-
-📷 **Example 3:** Image resolution & aspect ratio distribution  
-*(Histogram showing spread of image sizes)*
 
 These insights helped guide our data augmentation strategies and model architecture choices.
 
