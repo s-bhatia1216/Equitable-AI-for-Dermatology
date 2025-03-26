@@ -26,8 +26,60 @@ The objective of this challenge is to build an inclusive machine learning model 
 AI is transforming healthcare, but many dermatology AI tools underperform for people with darker skin tones due to non-diverse training data, leading to misdiagnosis and worsening health disparities. This challenge from Break Through Tech and the Algorithmic Justice League gives us the opportunity to help address this issue by building a more inclusive machine learning model. Our work builds on research from Stanford and the MIT Media Lab to improve fairness and explainability in dermatology AI. More broadly, this project highlights how biased AI can reinforce discrimination across healthcare, economic opportunity, and criminal justice. By advocating for diverse training data and more transparent models, we hope to push for more ethical AI in medicine and beyond.
 
 ## Setup & Execution
-(insert text here.)
+This section provides clear instructions to set up and run the project, ensuring full reproducibility of the results.
 
+**1. Environment Setup**
+
+Python Version: 3.x
+
+Dependencies:
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+PIL (pillow)
+
+scikit-image
+
+To install the required libraries, run:
+
+pip install numpy pandas matplotlib seaborn pillow scikit-image
+
+**2. Directory Structure**
+Make sure your project folder is organized as follows:
+
+<pre><code>project/
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│
+├── outputs/                   # (Optional) Folder to save processed images or results
+│
+├── EDA.ipynb                  # Exploratory data analysis
+├── ImageProcessing.ipynb      # Image pre-processing and histogram generation
+├── starter-code.ipynb         # Dataset-level visualizations and comparisons
+</code></pre>
+
+
+**3. Executing the Project**
+Step 1: Run Exploratory Data Analysis
+
+Open and execute EDA.ipynb to understand the distribution and characteristics of the data in train.csv and test.csv.
+
+Step 2: Process Images
+
+Use ImageProcessing.ipynb to load, crop, convert, and visualize images.
+
+Ensure that image files are located in the images/ directory.
+
+Step 3: Analyze and Visualize
+
+Use _____ to perform further analysis and generate comparative visualizations across datasets.
 
 ## 📁 Dataset & Data Exploration
 
